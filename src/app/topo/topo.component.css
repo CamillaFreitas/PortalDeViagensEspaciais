@@ -1,7 +1,7 @@
 .titulo{
     display: inline;
-    font-family: Verdana, Arial, sans-serif;
-    font-size: 120%;
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 150%;
 
 }
 
@@ -17,7 +17,7 @@
 .links{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 75%;
-    padding-top: 13%;
+    padding-top: 17%;
     text-decoration: none;
 }
 

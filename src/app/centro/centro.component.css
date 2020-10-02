@@ -2,10 +2,11 @@
     background-color: rgb(27, 188, 155);
     margin: auto;
     width: 100%;
+    border-bottom-color: rgb(27, 188, 155);
 }
 
 .imagem{
-    width: 27%;
+    width: 29%;
     margin-left: auto;
     margin-right: auto;
     display: block;
